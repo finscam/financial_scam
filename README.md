@@ -87,7 +87,3 @@ A modality ablation shows video robustness comes from visual signals, not just t
 | P4 | Urgency |
 | P5 | Domain/spacing tricks |
 | P6 | Character obfuscation |
-
----
-
-## 📂 Project Structure
