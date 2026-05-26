@@ -71,9 +71,10 @@ A modality ablation shows video robustness comes from visual signals, not just t
 
 | Video ID | Frame 1 | Frame 2 | Frame 3 | Label |
 |----------|--------|--------|--------|-------|
-| V1 | ![](assets/v1_f1.jpg) | ![](assets/v1_f2.jpg) | ![](assets/v1_f3.jpg) | SCAM |
-| V2 | ![](assets/v2_f1.jpg) | ![](assets/v2_f2.jpg) | ![](assets/v2_f3.jpg) | NON-SCAM |
-| V3 | ![](assets/v3_f1.jpg) | ![](assets/v3_f2.jpg) | ![](assets/v3_f3.jpg) | SCAM |
+| V1 | ![](assets/row1_pic1.png) | ![](assets/row1_pic2.png) | ![](assets/row1_pic3.png) | SCAM |
+| V2 | ![](assets/row2_pic1.png) | ![](assets/row2_pic2.png) | ![](assets/row2_pic3.png) | NON-SCAM |
+| V3 | ![](assets/row3_pic1.png) | ![](assets/row3_pic2.png) | ![](assets/row3_pic3.png) | SCAM |
+| V4 | ![](assets/row4_pic1.png) | ![](assets/row4_pic2.png) | ![](assets/row4_pic3.png) | SCAM |
 
 ---
 
